@@ -1,4 +1,4 @@
-= GraphQL In Action
+= GraphQL
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :bookmark:
@@ -7,11 +7,11 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-A GraphQL project with a backend component written with GraphQL-js and Apollo Server and a frontend component written in React. Branch "main" is the starting point for the GraphQL In Action book. Other branches are used to track the progress of updates throughout the book:
+A GraphQL project with a backend component written with GraphQL-js and Apollo Server and a frontend component written in React. Branch "main" is the starting point for the GraphQL / React Course. Other branches are used to track the progress of updates throughout the course:
 
-- Branch "5.0" is the starting point (Chapter 5 in the book). This is an alias for the "main" branch.
+- Branch "5.0" is the starting point (Lesson 5 in the course). This is an alias for the "main" branch.
 
-- Branch "9.0" has a working version of the React app before using the GraphQL API. This is the point where the GraphQL API is complete (except for subscriptions, which are implemented in Chapter 10)
+- Branch "9.0" has a working version of the React app before using the GraphQL API. This is the point where the GraphQL API is complete (except for subscriptions, which are implemented in Lesson 10)
 
 - Branch "10.0" has a worknig version of using a GraphQL client with a React app without a client library (like Apollo).
 
